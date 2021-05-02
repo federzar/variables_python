@@ -22,3 +22,13 @@ numero_2 = 7
 # print(....)
 
 # Repita el procedimiento para realizar la resta
+
+# Comienzo del ejercicio
+
+Suma = numero_1 + numero_2
+
+print('el resultado de sumar las variables numero_1 y numero_2 es:', Suma)
+
+Resta = numero_1 - numero_2
+
+print('restar las variables anteriores equivale a:', Resta)
