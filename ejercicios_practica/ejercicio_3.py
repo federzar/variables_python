@@ -24,3 +24,11 @@ apellido = str(input())
 
 # Imprimir la cantidad de letras que posee su nombre completo
 # cantidad_letras = len(....)
+
+nombre_completo = nombre + ' ' + apellido
+print('mi nombre completo es', nombre_completo)
+
+nombre_sin_espacios = nombre + apellido 'nueva variable sin espacios para que no tome el "espacio" como un caracter adicional'
+
+cantidad_letras = len(nombre_sin_espacios)
+print('mi nombre completo tiene', cantidad_letras, 'caracteres')
