@@ -25,10 +25,15 @@ numero_2 = 7
 
 # Comienzo del ejercicio
 
-Suma = numero_1 + numero_2
+Suma = numero_1 + numero_2 # Operando la suma
 
-print('el resultado de sumar las variables numero_1 y numero_2 es:', Suma)
+print('el resultado de sumar las variables numero_1 y numero_2 es:', Suma) 
 
-Resta = numero_1 - numero_2
+# Variables para la resta
 
-print('restar las variables anteriores equivale a:', Resta)
+Teclado = 2.5
+Mouse = 15.0
+
+Resta = Teclado - Mouse # Operando la resta con nrs reales 
+
+print('restar las variables', Teclado, 'y', Mouse, 'equivale a:', Resta)
